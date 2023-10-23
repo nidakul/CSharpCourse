@@ -1,0 +1,15 @@
+/Users/nida/Projects/CSharpCourse/Conditionals/bin/Debug/net7.0/Conditionals
+/Users/nida/Projects/CSharpCourse/Conditionals/bin/Debug/net7.0/Conditionals.deps.json
+/Users/nida/Projects/CSharpCourse/Conditionals/bin/Debug/net7.0/Conditionals.runtimeconfig.json
+/Users/nida/Projects/CSharpCourse/Conditionals/bin/Debug/net7.0/Conditionals.dll
+/Users/nida/Projects/CSharpCourse/Conditionals/bin/Debug/net7.0/Conditionals.pdb
+/Users/nida/Projects/CSharpCourse/Conditionals/obj/Debug/net7.0/Conditionals.csproj.AssemblyReference.cache
+/Users/nida/Projects/CSharpCourse/Conditionals/obj/Debug/net7.0/Conditionals.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nida/Projects/CSharpCourse/Conditionals/obj/Debug/net7.0/Conditionals.AssemblyInfoInputs.cache
+/Users/nida/Projects/CSharpCourse/Conditionals/obj/Debug/net7.0/Conditionals.AssemblyInfo.cs
+/Users/nida/Projects/CSharpCourse/Conditionals/obj/Debug/net7.0/Conditionals.csproj.CoreCompileInputs.cache
+/Users/nida/Projects/CSharpCourse/Conditionals/obj/Debug/net7.0/Conditionals.dll
+/Users/nida/Projects/CSharpCourse/Conditionals/obj/Debug/net7.0/refint/Conditionals.dll
+/Users/nida/Projects/CSharpCourse/Conditionals/obj/Debug/net7.0/Conditionals.pdb
+/Users/nida/Projects/CSharpCourse/Conditionals/obj/Debug/net7.0/Conditionals.genruntimeconfig.cache
+/Users/nida/Projects/CSharpCourse/Conditionals/obj/Debug/net7.0/ref/Conditionals.dll

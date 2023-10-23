@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/nida/Projects/CSharpCourse/CSharpCourse/CSharpCourse.csproj",
-      "projectName": "CSharpCourse",
-      "projectPath": "/Users/nida/Projects/CSharpCourse/CSharpCourse/CSharpCourse.csproj",
+      "projectUniqueName": "/Users/nida/Projects/CSharpCourse/Conditionals/Conditionals.csproj",
+      "projectName": "Conditionals",
+      "projectPath": "/Users/nida/Projects/CSharpCourse/Conditionals/Conditionals.csproj",
       "packagesPath": "/Users/nida/.nuget/packages/",
-      "outputPath": "/Users/nida/Projects/CSharpCourse/CSharpCourse/obj/",
+      "outputPath": "/Users/nida/Projects/CSharpCourse/Conditionals/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/nida/.nuget/NuGet/NuGet.Config"
