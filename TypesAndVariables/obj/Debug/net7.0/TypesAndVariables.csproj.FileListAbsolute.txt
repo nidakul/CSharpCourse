@@ -1,0 +1,15 @@
+/Users/nida/Projects/CSharpCourse/TypesAndVariables/bin/Debug/net7.0/TypesAndVariables
+/Users/nida/Projects/CSharpCourse/TypesAndVariables/bin/Debug/net7.0/TypesAndVariables.deps.json
+/Users/nida/Projects/CSharpCourse/TypesAndVariables/bin/Debug/net7.0/TypesAndVariables.runtimeconfig.json
+/Users/nida/Projects/CSharpCourse/TypesAndVariables/bin/Debug/net7.0/TypesAndVariables.dll
+/Users/nida/Projects/CSharpCourse/TypesAndVariables/bin/Debug/net7.0/TypesAndVariables.pdb
+/Users/nida/Projects/CSharpCourse/TypesAndVariables/obj/Debug/net7.0/TypesAndVariables.csproj.AssemblyReference.cache
+/Users/nida/Projects/CSharpCourse/TypesAndVariables/obj/Debug/net7.0/TypesAndVariables.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nida/Projects/CSharpCourse/TypesAndVariables/obj/Debug/net7.0/TypesAndVariables.AssemblyInfoInputs.cache
+/Users/nida/Projects/CSharpCourse/TypesAndVariables/obj/Debug/net7.0/TypesAndVariables.AssemblyInfo.cs
+/Users/nida/Projects/CSharpCourse/TypesAndVariables/obj/Debug/net7.0/TypesAndVariables.csproj.CoreCompileInputs.cache
+/Users/nida/Projects/CSharpCourse/TypesAndVariables/obj/Debug/net7.0/TypesAndVariables.dll
+/Users/nida/Projects/CSharpCourse/TypesAndVariables/obj/Debug/net7.0/refint/TypesAndVariables.dll
+/Users/nida/Projects/CSharpCourse/TypesAndVariables/obj/Debug/net7.0/TypesAndVariables.pdb
+/Users/nida/Projects/CSharpCourse/TypesAndVariables/obj/Debug/net7.0/TypesAndVariables.genruntimeconfig.cache
+/Users/nida/Projects/CSharpCourse/TypesAndVariables/obj/Debug/net7.0/ref/TypesAndVariables.dll
