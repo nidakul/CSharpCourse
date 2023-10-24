@@ -1,0 +1,15 @@
+/Users/nida/Projects/CSharpCourse/Arrays/bin/Debug/net7.0/Arrays
+/Users/nida/Projects/CSharpCourse/Arrays/bin/Debug/net7.0/Arrays.deps.json
+/Users/nida/Projects/CSharpCourse/Arrays/bin/Debug/net7.0/Arrays.runtimeconfig.json
+/Users/nida/Projects/CSharpCourse/Arrays/bin/Debug/net7.0/Arrays.dll
+/Users/nida/Projects/CSharpCourse/Arrays/bin/Debug/net7.0/Arrays.pdb
+/Users/nida/Projects/CSharpCourse/Arrays/obj/Debug/net7.0/Arrays.csproj.AssemblyReference.cache
+/Users/nida/Projects/CSharpCourse/Arrays/obj/Debug/net7.0/Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nida/Projects/CSharpCourse/Arrays/obj/Debug/net7.0/Arrays.AssemblyInfoInputs.cache
+/Users/nida/Projects/CSharpCourse/Arrays/obj/Debug/net7.0/Arrays.AssemblyInfo.cs
+/Users/nida/Projects/CSharpCourse/Arrays/obj/Debug/net7.0/Arrays.csproj.CoreCompileInputs.cache
+/Users/nida/Projects/CSharpCourse/Arrays/obj/Debug/net7.0/Arrays.dll
+/Users/nida/Projects/CSharpCourse/Arrays/obj/Debug/net7.0/refint/Arrays.dll
+/Users/nida/Projects/CSharpCourse/Arrays/obj/Debug/net7.0/Arrays.pdb
+/Users/nida/Projects/CSharpCourse/Arrays/obj/Debug/net7.0/Arrays.genruntimeconfig.cache
+/Users/nida/Projects/CSharpCourse/Arrays/obj/Debug/net7.0/ref/Arrays.dll
