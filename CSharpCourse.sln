@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "Arrays\Arrays.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loops", "Loops\Loops.csproj", "{3C13B174-75DD-47D9-9720-E0297C066DAD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindPrimeNumber", "FindPrimeNumber\FindPrimeNumber.csproj", "{9F50FFBB-48B9-4971-9A65-9B8EE551F124}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{3C13B174-75DD-47D9-9720-E0297C066DAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3C13B174-75DD-47D9-9720-E0297C066DAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3C13B174-75DD-47D9-9720-E0297C066DAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F50FFBB-48B9-4971-9A65-9B8EE551F124}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F50FFBB-48B9-4971-9A65-9B8EE551F124}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F50FFBB-48B9-4971-9A65-9B8EE551F124}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F50FFBB-48B9-4971-9A65-9B8EE551F124}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

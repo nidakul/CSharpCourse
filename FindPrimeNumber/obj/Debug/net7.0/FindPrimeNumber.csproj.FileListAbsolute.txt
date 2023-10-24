@@ -1,0 +1,15 @@
+/Users/nida/Projects/CSharpCourse/FindPrimeNumber/bin/Debug/net7.0/FindPrimeNumber
+/Users/nida/Projects/CSharpCourse/FindPrimeNumber/bin/Debug/net7.0/FindPrimeNumber.deps.json
+/Users/nida/Projects/CSharpCourse/FindPrimeNumber/bin/Debug/net7.0/FindPrimeNumber.runtimeconfig.json
+/Users/nida/Projects/CSharpCourse/FindPrimeNumber/bin/Debug/net7.0/FindPrimeNumber.dll
+/Users/nida/Projects/CSharpCourse/FindPrimeNumber/bin/Debug/net7.0/FindPrimeNumber.pdb
+/Users/nida/Projects/CSharpCourse/FindPrimeNumber/obj/Debug/net7.0/FindPrimeNumber.csproj.AssemblyReference.cache
+/Users/nida/Projects/CSharpCourse/FindPrimeNumber/obj/Debug/net7.0/FindPrimeNumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nida/Projects/CSharpCourse/FindPrimeNumber/obj/Debug/net7.0/FindPrimeNumber.AssemblyInfoInputs.cache
+/Users/nida/Projects/CSharpCourse/FindPrimeNumber/obj/Debug/net7.0/FindPrimeNumber.AssemblyInfo.cs
+/Users/nida/Projects/CSharpCourse/FindPrimeNumber/obj/Debug/net7.0/FindPrimeNumber.csproj.CoreCompileInputs.cache
+/Users/nida/Projects/CSharpCourse/FindPrimeNumber/obj/Debug/net7.0/FindPrimeNumber.dll
+/Users/nida/Projects/CSharpCourse/FindPrimeNumber/obj/Debug/net7.0/refint/FindPrimeNumber.dll
+/Users/nida/Projects/CSharpCourse/FindPrimeNumber/obj/Debug/net7.0/FindPrimeNumber.pdb
+/Users/nida/Projects/CSharpCourse/FindPrimeNumber/obj/Debug/net7.0/FindPrimeNumber.genruntimeconfig.cache
+/Users/nida/Projects/CSharpCourse/FindPrimeNumber/obj/Debug/net7.0/ref/FindPrimeNumber.dll
