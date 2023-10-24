@@ -1,5 +1,6 @@
-﻿<Properties StartupConfiguration="{463093E2-FC32-4ECE-8741-A6F00D3EEEC0}|Default">
-  <MonoDevelop.Ide.ItemProperties.Conditionals FirstBuild="True" />
+﻿<Properties StartupConfiguration="{88B1E016-2119-434C-95E5-75605BCD3589}|Default">
+  <MonoDevelop.Ide.ItemProperties.Conditionals PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Methods FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.TypesAndVariables PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
