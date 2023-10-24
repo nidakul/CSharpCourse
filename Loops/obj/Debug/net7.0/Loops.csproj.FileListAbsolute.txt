@@ -1,0 +1,15 @@
+/Users/nida/Projects/CSharpCourse/Loops/bin/Debug/net7.0/Loops
+/Users/nida/Projects/CSharpCourse/Loops/bin/Debug/net7.0/Loops.deps.json
+/Users/nida/Projects/CSharpCourse/Loops/bin/Debug/net7.0/Loops.runtimeconfig.json
+/Users/nida/Projects/CSharpCourse/Loops/bin/Debug/net7.0/Loops.dll
+/Users/nida/Projects/CSharpCourse/Loops/bin/Debug/net7.0/Loops.pdb
+/Users/nida/Projects/CSharpCourse/Loops/obj/Debug/net7.0/Loops.csproj.AssemblyReference.cache
+/Users/nida/Projects/CSharpCourse/Loops/obj/Debug/net7.0/Loops.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nida/Projects/CSharpCourse/Loops/obj/Debug/net7.0/Loops.AssemblyInfoInputs.cache
+/Users/nida/Projects/CSharpCourse/Loops/obj/Debug/net7.0/Loops.AssemblyInfo.cs
+/Users/nida/Projects/CSharpCourse/Loops/obj/Debug/net7.0/Loops.csproj.CoreCompileInputs.cache
+/Users/nida/Projects/CSharpCourse/Loops/obj/Debug/net7.0/Loops.dll
+/Users/nida/Projects/CSharpCourse/Loops/obj/Debug/net7.0/refint/Loops.dll
+/Users/nida/Projects/CSharpCourse/Loops/obj/Debug/net7.0/Loops.pdb
+/Users/nida/Projects/CSharpCourse/Loops/obj/Debug/net7.0/Loops.genruntimeconfig.cache
+/Users/nida/Projects/CSharpCourse/Loops/obj/Debug/net7.0/ref/Loops.dll

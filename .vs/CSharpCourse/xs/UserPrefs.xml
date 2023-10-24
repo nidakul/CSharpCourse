@@ -1,7 +1,8 @@
-﻿<Properties StartupConfiguration="{CBCB203E-CEC9-4BCC-B079-BF6650AFBD81}|Default">
+﻿<Properties StartupConfiguration="{3E10C7ED-F36D-42B6-A776-F6A550AA665E}|Default">
   <MonoDevelop.Ide.ItemProperties.Conditionals PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Arrays FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Arrays PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Methods PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Loops FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.TypesAndVariables PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
