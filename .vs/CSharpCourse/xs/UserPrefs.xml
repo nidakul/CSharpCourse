@@ -1,10 +1,30 @@
-﻿<Properties StartupConfiguration="{9F50FFBB-48B9-4971-9A65-9B8EE551F124}|Default">
+﻿<Properties StartupConfiguration="{B32622A2-83DA-4A15-A7FF-789BEFA9A20A}|Default">
   <MonoDevelop.Ide.ItemProperties.Conditionals PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.Arrays PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Strings/Program.cs">
+    <Files>
+      <File FileName="TypesAndVariables/Program.cs" Line="28" Column="2" />
+      <File FileName="Conditionals/Program.cs" Line="49" Column="47" />
+      <File FileName="Methods/Program.cs" Line="27" Column="1" />
+      <File FileName="Arrays/Program.cs" Line="27" Column="33" />
+      <File FileName="Loops/Program.cs" Line="8" Column="1" />
+      <File FileName="FindPrimeNumber/Program.cs" Line="1" Column="21" />
+      <File FileName="Strings/Program.cs" Line="35" Column="35" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
   <MonoDevelop.Ide.ItemProperties.FindPrimeNumber PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Methods PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Classes FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.Loops PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.TypesAndVariables PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.Strings FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Strings PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

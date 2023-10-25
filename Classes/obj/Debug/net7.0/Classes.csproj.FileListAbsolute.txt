@@ -1,0 +1,15 @@
+/Users/nida/Projects/CSharpCourse/Classes/bin/Debug/net7.0/Classes
+/Users/nida/Projects/CSharpCourse/Classes/bin/Debug/net7.0/Classes.deps.json
+/Users/nida/Projects/CSharpCourse/Classes/bin/Debug/net7.0/Classes.runtimeconfig.json
+/Users/nida/Projects/CSharpCourse/Classes/bin/Debug/net7.0/Classes.dll
+/Users/nida/Projects/CSharpCourse/Classes/bin/Debug/net7.0/Classes.pdb
+/Users/nida/Projects/CSharpCourse/Classes/obj/Debug/net7.0/Classes.csproj.AssemblyReference.cache
+/Users/nida/Projects/CSharpCourse/Classes/obj/Debug/net7.0/Classes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nida/Projects/CSharpCourse/Classes/obj/Debug/net7.0/Classes.AssemblyInfoInputs.cache
+/Users/nida/Projects/CSharpCourse/Classes/obj/Debug/net7.0/Classes.AssemblyInfo.cs
+/Users/nida/Projects/CSharpCourse/Classes/obj/Debug/net7.0/Classes.csproj.CoreCompileInputs.cache
+/Users/nida/Projects/CSharpCourse/Classes/obj/Debug/net7.0/Classes.dll
+/Users/nida/Projects/CSharpCourse/Classes/obj/Debug/net7.0/refint/Classes.dll
+/Users/nida/Projects/CSharpCourse/Classes/obj/Debug/net7.0/Classes.pdb
+/Users/nida/Projects/CSharpCourse/Classes/obj/Debug/net7.0/Classes.genruntimeconfig.cache
+/Users/nida/Projects/CSharpCourse/Classes/obj/Debug/net7.0/ref/Classes.dll

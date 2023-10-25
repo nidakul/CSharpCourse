@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindPrimeNumber", "FindPrim
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strings", "Strings\Strings.csproj", "{B32622A2-83DA-4A15-A7FF-789BEFA9A20A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes", "Classes\Classes.csproj", "{4FFF21AA-7463-4F54-B556-E70BA64EFDB0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{B32622A2-83DA-4A15-A7FF-789BEFA9A20A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B32622A2-83DA-4A15-A7FF-789BEFA9A20A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B32622A2-83DA-4A15-A7FF-789BEFA9A20A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FFF21AA-7463-4F54-B556-E70BA64EFDB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FFF21AA-7463-4F54-B556-E70BA64EFDB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FFF21AA-7463-4F54-B556-E70BA64EFDB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FFF21AA-7463-4F54-B556-E70BA64EFDB0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
