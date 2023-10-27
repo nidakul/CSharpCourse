@@ -1,17 +1,21 @@
-﻿<Properties StartupConfiguration="{B32622A2-83DA-4A15-A7FF-789BEFA9A20A}|Default">
+﻿<Properties StartupConfiguration="{4FFF21AA-7463-4F54-B556-E70BA64EFDB0}|Default">
   <MonoDevelop.Ide.ItemProperties.Conditionals PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.Arrays PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Strings/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Classes/Customer.cs">
     <Files>
-      <File FileName="TypesAndVariables/Program.cs" Line="28" Column="2" />
-      <File FileName="Conditionals/Program.cs" Line="49" Column="47" />
-      <File FileName="Methods/Program.cs" Line="27" Column="1" />
-      <File FileName="Arrays/Program.cs" Line="27" Column="33" />
-      <File FileName="Loops/Program.cs" Line="8" Column="1" />
-      <File FileName="FindPrimeNumber/Program.cs" Line="1" Column="21" />
+      <File FileName="TypesAndVariables/Program.cs" />
+      <File FileName="Conditionals/Program.cs" />
+      <File FileName="Methods/Program.cs" />
+      <File FileName="Arrays/Program.cs" />
+      <File FileName="Loops/Program.cs" />
+      <File FileName="FindPrimeNumber/Program.cs" />
       <File FileName="Strings/Program.cs" Line="35" Column="35" />
+      <File FileName="Classes/Program.cs" Line="26" Column="38" />
+      <File FileName="Classes/CustomerManager.cs" Line="15" Column="6" />
+      <File FileName="Classes/ProductManager.cs" Line="16" Column="1" />
+      <File FileName="Classes/Customer.cs" Line="15" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -19,11 +23,14 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.ItemProperties.FindPrimeNumber PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Methods PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.Classes FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Classes PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Loops PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Interfaces FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.TypesAndVariables PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Strings PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
