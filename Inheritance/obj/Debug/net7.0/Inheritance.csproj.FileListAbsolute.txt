@@ -1,0 +1,15 @@
+/Users/nida/Projects/CSharpCourse/Inheritance/bin/Debug/net7.0/Inheritance
+/Users/nida/Projects/CSharpCourse/Inheritance/bin/Debug/net7.0/Inheritance.deps.json
+/Users/nida/Projects/CSharpCourse/Inheritance/bin/Debug/net7.0/Inheritance.runtimeconfig.json
+/Users/nida/Projects/CSharpCourse/Inheritance/bin/Debug/net7.0/Inheritance.dll
+/Users/nida/Projects/CSharpCourse/Inheritance/bin/Debug/net7.0/Inheritance.pdb
+/Users/nida/Projects/CSharpCourse/Inheritance/obj/Debug/net7.0/Inheritance.csproj.AssemblyReference.cache
+/Users/nida/Projects/CSharpCourse/Inheritance/obj/Debug/net7.0/Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nida/Projects/CSharpCourse/Inheritance/obj/Debug/net7.0/Inheritance.AssemblyInfoInputs.cache
+/Users/nida/Projects/CSharpCourse/Inheritance/obj/Debug/net7.0/Inheritance.AssemblyInfo.cs
+/Users/nida/Projects/CSharpCourse/Inheritance/obj/Debug/net7.0/Inheritance.csproj.CoreCompileInputs.cache
+/Users/nida/Projects/CSharpCourse/Inheritance/obj/Debug/net7.0/Inheritance.dll
+/Users/nida/Projects/CSharpCourse/Inheritance/obj/Debug/net7.0/refint/Inheritance.dll
+/Users/nida/Projects/CSharpCourse/Inheritance/obj/Debug/net7.0/Inheritance.pdb
+/Users/nida/Projects/CSharpCourse/Inheritance/obj/Debug/net7.0/Inheritance.genruntimeconfig.cache
+/Users/nida/Projects/CSharpCourse/Inheritance/obj/Debug/net7.0/ref/Inheritance.dll
