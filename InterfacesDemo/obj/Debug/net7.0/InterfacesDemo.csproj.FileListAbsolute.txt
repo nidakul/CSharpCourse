@@ -1,0 +1,15 @@
+/Users/nida/Projects/CSharpCourse/InterfacesDemo/bin/Debug/net7.0/InterfacesDemo
+/Users/nida/Projects/CSharpCourse/InterfacesDemo/bin/Debug/net7.0/InterfacesDemo.deps.json
+/Users/nida/Projects/CSharpCourse/InterfacesDemo/bin/Debug/net7.0/InterfacesDemo.runtimeconfig.json
+/Users/nida/Projects/CSharpCourse/InterfacesDemo/bin/Debug/net7.0/InterfacesDemo.dll
+/Users/nida/Projects/CSharpCourse/InterfacesDemo/bin/Debug/net7.0/InterfacesDemo.pdb
+/Users/nida/Projects/CSharpCourse/InterfacesDemo/obj/Debug/net7.0/InterfacesDemo.csproj.AssemblyReference.cache
+/Users/nida/Projects/CSharpCourse/InterfacesDemo/obj/Debug/net7.0/InterfacesDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nida/Projects/CSharpCourse/InterfacesDemo/obj/Debug/net7.0/InterfacesDemo.AssemblyInfoInputs.cache
+/Users/nida/Projects/CSharpCourse/InterfacesDemo/obj/Debug/net7.0/InterfacesDemo.AssemblyInfo.cs
+/Users/nida/Projects/CSharpCourse/InterfacesDemo/obj/Debug/net7.0/InterfacesDemo.csproj.CoreCompileInputs.cache
+/Users/nida/Projects/CSharpCourse/InterfacesDemo/obj/Debug/net7.0/InterfacesDemo.dll
+/Users/nida/Projects/CSharpCourse/InterfacesDemo/obj/Debug/net7.0/refint/InterfacesDemo.dll
+/Users/nida/Projects/CSharpCourse/InterfacesDemo/obj/Debug/net7.0/InterfacesDemo.pdb
+/Users/nida/Projects/CSharpCourse/InterfacesDemo/obj/Debug/net7.0/InterfacesDemo.genruntimeconfig.cache
+/Users/nida/Projects/CSharpCourse/InterfacesDemo/obj/Debug/net7.0/ref/InterfacesDemo.dll
