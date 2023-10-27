@@ -1,6 +1,7 @@
-﻿<Properties StartupConfiguration="{3136E815-9832-444A-9C02-02B28C851047}|Default">
+﻿<Properties StartupConfiguration="{B2FCDB5D-DBD4-4DF1-AC25-C74431FD750E}|Default">
   <MonoDevelop.Ide.ItemProperties.Conditionals PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.RecapDemo FirstBuild="True" />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.Arrays PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Classes/Customer.cs">
@@ -27,7 +28,7 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.ItemProperties.FindPrimeNumber PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.Inheritance FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Inheritance PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Methods PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Classes PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Loops PreferredExecutionTarget="MonoDevelop.Default" />

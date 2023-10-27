@@ -1,0 +1,15 @@
+/Users/nida/Projects/CSharpCourse/RecapDemo/bin/Debug/net7.0/RecapDemo
+/Users/nida/Projects/CSharpCourse/RecapDemo/bin/Debug/net7.0/RecapDemo.deps.json
+/Users/nida/Projects/CSharpCourse/RecapDemo/bin/Debug/net7.0/RecapDemo.runtimeconfig.json
+/Users/nida/Projects/CSharpCourse/RecapDemo/bin/Debug/net7.0/RecapDemo.dll
+/Users/nida/Projects/CSharpCourse/RecapDemo/bin/Debug/net7.0/RecapDemo.pdb
+/Users/nida/Projects/CSharpCourse/RecapDemo/obj/Debug/net7.0/RecapDemo.csproj.AssemblyReference.cache
+/Users/nida/Projects/CSharpCourse/RecapDemo/obj/Debug/net7.0/RecapDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nida/Projects/CSharpCourse/RecapDemo/obj/Debug/net7.0/RecapDemo.AssemblyInfoInputs.cache
+/Users/nida/Projects/CSharpCourse/RecapDemo/obj/Debug/net7.0/RecapDemo.AssemblyInfo.cs
+/Users/nida/Projects/CSharpCourse/RecapDemo/obj/Debug/net7.0/RecapDemo.csproj.CoreCompileInputs.cache
+/Users/nida/Projects/CSharpCourse/RecapDemo/obj/Debug/net7.0/RecapDemo.dll
+/Users/nida/Projects/CSharpCourse/RecapDemo/obj/Debug/net7.0/refint/RecapDemo.dll
+/Users/nida/Projects/CSharpCourse/RecapDemo/obj/Debug/net7.0/RecapDemo.pdb
+/Users/nida/Projects/CSharpCourse/RecapDemo/obj/Debug/net7.0/RecapDemo.genruntimeconfig.cache
+/Users/nida/Projects/CSharpCourse/RecapDemo/obj/Debug/net7.0/ref/RecapDemo.dll

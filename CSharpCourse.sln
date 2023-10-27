@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfacesDemo", "Interface
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "Inheritance\Inheritance.csproj", "{B2FCDB5D-DBD4-4DF1-AC25-C74431FD750E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecapDemo", "RecapDemo\RecapDemo.csproj", "{990AF7A0-BB86-4D00-926F-764CAE43CA2C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{B2FCDB5D-DBD4-4DF1-AC25-C74431FD750E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B2FCDB5D-DBD4-4DF1-AC25-C74431FD750E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B2FCDB5D-DBD4-4DF1-AC25-C74431FD750E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{990AF7A0-BB86-4D00-926F-764CAE43CA2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{990AF7A0-BB86-4D00-926F-764CAE43CA2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{990AF7A0-BB86-4D00-926F-764CAE43CA2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{990AF7A0-BB86-4D00-926F-764CAE43CA2C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
