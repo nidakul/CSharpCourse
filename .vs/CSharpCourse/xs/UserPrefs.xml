@@ -1,10 +1,10 @@
-﻿<Properties StartupConfiguration="{B2FCDB5D-DBD4-4DF1-AC25-C74431FD750E}|Default">
+﻿<Properties StartupConfiguration="{990AF7A0-BB86-4D00-926F-764CAE43CA2C}|Default">
   <MonoDevelop.Ide.ItemProperties.Conditionals PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.RecapDemo FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.RecapDemo PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.Arrays PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Classes/Customer.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RecapDemo/Program.cs">
     <Files>
       <File FileName="TypesAndVariables/Program.cs" />
       <File FileName="Conditionals/Program.cs" />
@@ -12,15 +12,22 @@
       <File FileName="Arrays/Program.cs" />
       <File FileName="Loops/Program.cs" />
       <File FileName="FindPrimeNumber/Program.cs" />
-      <File FileName="Strings/Program.cs" Line="35" Column="35" />
-      <File FileName="Classes/Program.cs" Line="26" Column="38" />
       <File FileName="Classes/CustomerManager.cs" Line="15" Column="6" />
       <File FileName="Classes/ProductManager.cs" Line="16" Column="1" />
       <File FileName="Classes/Customer.cs" Line="15" Column="1" />
+      <File FileName="Interfaces/Program.cs" Line="29" Column="29" />
+      <File FileName="Interfaces/ICustomerDal.cs" Line="58" Column="1" />
+      <File FileName="InterfacesDemo/Program.cs" Line="44" Column="42" />
+      <File FileName="Inheritance/Program.cs" Line="15" Column="41" />
+      <File FileName="RecapDemo/Program.cs" Line="8" Column="6" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
-        <State name="__root__" />
+        <State name="__root__">
+          <Node name="CSharpCourse" expanded="True">
+            <Node name="RecapDemo" expanded="True" />
+          </Node>
+        </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
