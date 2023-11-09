@@ -1,10 +1,10 @@
-﻿<Properties StartupConfiguration="{990AF7A0-BB86-4D00-926F-764CAE43CA2C}|Default">
-  <MonoDevelop.Ide.ItemProperties.Conditionals PreferredExecutionTarget="MonoDevelop.Default" />
+﻿<Properties StartupConfiguration="{5BD817B9-AD2D-4083-8227-D63F30EF4CC9}|Default">
+  <MonoDevelop.Ide.ItemProperties.Loops PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Classes PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.RecapDemo PreferredExecutionTarget="MonoDevelop.Default" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Arrays PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="RecapDemo/Program.cs">
+  <MonoDevelop.Ide.ItemProperties.TypesAndVariables PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="OOP/Program.cs">
     <Files>
       <File FileName="TypesAndVariables/Program.cs" />
       <File FileName="Conditionals/Program.cs" />
@@ -12,36 +12,37 @@
       <File FileName="Arrays/Program.cs" />
       <File FileName="Loops/Program.cs" />
       <File FileName="FindPrimeNumber/Program.cs" />
-      <File FileName="Classes/CustomerManager.cs" Line="15" Column="6" />
-      <File FileName="Classes/ProductManager.cs" Line="16" Column="1" />
-      <File FileName="Classes/Customer.cs" Line="15" Column="1" />
-      <File FileName="Interfaces/Program.cs" Line="29" Column="29" />
-      <File FileName="Interfaces/ICustomerDal.cs" Line="58" Column="1" />
-      <File FileName="InterfacesDemo/Program.cs" Line="44" Column="42" />
-      <File FileName="Inheritance/Program.cs" Line="15" Column="41" />
+      <File FileName="Classes/CustomerManager.cs" />
+      <File FileName="Classes/ProductManager.cs" />
+      <File FileName="Classes/Customer.cs" />
+      <File FileName="Interfaces/Program.cs" />
+      <File FileName="Interfaces/ICustomerDal.cs" />
+      <File FileName="InterfacesDemo/Program.cs" />
+      <File FileName="Inheritance/Program.cs" />
       <File FileName="RecapDemo/Program.cs" Line="8" Column="6" />
+      <File FileName="OOP/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="CSharpCourse" expanded="True">
-            <Node name="RecapDemo" expanded="True" />
+            <Node name="OOP" selected="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.FindPrimeNumber PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.Inheritance PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.Methods PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.Classes PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.Loops PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.Interfaces PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
   <MonoDevelop.Ide.ItemProperties.InterfacesDemo PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.TypesAndVariables PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.Strings PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Methods2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Arrays PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.FindPrimeNumber PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Methods PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Inheritance PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Conditionals PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Math FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Interfaces PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Strings PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

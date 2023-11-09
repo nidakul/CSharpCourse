@@ -1,0 +1,15 @@
+/Users/nida/Projects/CSharpCourse/Math/bin/Debug/net7.0/Math
+/Users/nida/Projects/CSharpCourse/Math/bin/Debug/net7.0/Math.deps.json
+/Users/nida/Projects/CSharpCourse/Math/bin/Debug/net7.0/Math.runtimeconfig.json
+/Users/nida/Projects/CSharpCourse/Math/bin/Debug/net7.0/Math.dll
+/Users/nida/Projects/CSharpCourse/Math/bin/Debug/net7.0/Math.pdb
+/Users/nida/Projects/CSharpCourse/Math/obj/Debug/net7.0/Math.csproj.AssemblyReference.cache
+/Users/nida/Projects/CSharpCourse/Math/obj/Debug/net7.0/Math.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nida/Projects/CSharpCourse/Math/obj/Debug/net7.0/Math.AssemblyInfoInputs.cache
+/Users/nida/Projects/CSharpCourse/Math/obj/Debug/net7.0/Math.AssemblyInfo.cs
+/Users/nida/Projects/CSharpCourse/Math/obj/Debug/net7.0/Math.csproj.CoreCompileInputs.cache
+/Users/nida/Projects/CSharpCourse/Math/obj/Debug/net7.0/Math.dll
+/Users/nida/Projects/CSharpCourse/Math/obj/Debug/net7.0/refint/Math.dll
+/Users/nida/Projects/CSharpCourse/Math/obj/Debug/net7.0/Math.pdb
+/Users/nida/Projects/CSharpCourse/Math/obj/Debug/net7.0/Math.genruntimeconfig.cache
+/Users/nida/Projects/CSharpCourse/Math/obj/Debug/net7.0/ref/Math.dll
