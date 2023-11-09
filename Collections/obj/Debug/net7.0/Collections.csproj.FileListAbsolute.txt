@@ -1,0 +1,15 @@
+/Users/nida/Projects/CSharpCourse/Collections/bin/Debug/net7.0/Collections
+/Users/nida/Projects/CSharpCourse/Collections/bin/Debug/net7.0/Collections.deps.json
+/Users/nida/Projects/CSharpCourse/Collections/bin/Debug/net7.0/Collections.runtimeconfig.json
+/Users/nida/Projects/CSharpCourse/Collections/bin/Debug/net7.0/Collections.dll
+/Users/nida/Projects/CSharpCourse/Collections/bin/Debug/net7.0/Collections.pdb
+/Users/nida/Projects/CSharpCourse/Collections/obj/Debug/net7.0/Collections.csproj.AssemblyReference.cache
+/Users/nida/Projects/CSharpCourse/Collections/obj/Debug/net7.0/Collections.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nida/Projects/CSharpCourse/Collections/obj/Debug/net7.0/Collections.AssemblyInfoInputs.cache
+/Users/nida/Projects/CSharpCourse/Collections/obj/Debug/net7.0/Collections.AssemblyInfo.cs
+/Users/nida/Projects/CSharpCourse/Collections/obj/Debug/net7.0/Collections.csproj.CoreCompileInputs.cache
+/Users/nida/Projects/CSharpCourse/Collections/obj/Debug/net7.0/Collections.dll
+/Users/nida/Projects/CSharpCourse/Collections/obj/Debug/net7.0/refint/Collections.dll
+/Users/nida/Projects/CSharpCourse/Collections/obj/Debug/net7.0/Collections.pdb
+/Users/nida/Projects/CSharpCourse/Collections/obj/Debug/net7.0/Collections.genruntimeconfig.cache
+/Users/nida/Projects/CSharpCourse/Collections/obj/Debug/net7.0/ref/Collections.dll
