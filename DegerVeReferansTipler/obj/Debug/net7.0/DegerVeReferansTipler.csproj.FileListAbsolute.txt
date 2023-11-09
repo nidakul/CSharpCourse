@@ -1,0 +1,15 @@
+/Users/nida/Projects/CSharpCourse/DegerVeReferansTipler/bin/Debug/net7.0/DegerVeReferansTipler
+/Users/nida/Projects/CSharpCourse/DegerVeReferansTipler/bin/Debug/net7.0/DegerVeReferansTipler.deps.json
+/Users/nida/Projects/CSharpCourse/DegerVeReferansTipler/bin/Debug/net7.0/DegerVeReferansTipler.runtimeconfig.json
+/Users/nida/Projects/CSharpCourse/DegerVeReferansTipler/bin/Debug/net7.0/DegerVeReferansTipler.dll
+/Users/nida/Projects/CSharpCourse/DegerVeReferansTipler/bin/Debug/net7.0/DegerVeReferansTipler.pdb
+/Users/nida/Projects/CSharpCourse/DegerVeReferansTipler/obj/Debug/net7.0/DegerVeReferansTipler.csproj.AssemblyReference.cache
+/Users/nida/Projects/CSharpCourse/DegerVeReferansTipler/obj/Debug/net7.0/DegerVeReferansTipler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nida/Projects/CSharpCourse/DegerVeReferansTipler/obj/Debug/net7.0/DegerVeReferansTipler.AssemblyInfoInputs.cache
+/Users/nida/Projects/CSharpCourse/DegerVeReferansTipler/obj/Debug/net7.0/DegerVeReferansTipler.AssemblyInfo.cs
+/Users/nida/Projects/CSharpCourse/DegerVeReferansTipler/obj/Debug/net7.0/DegerVeReferansTipler.csproj.CoreCompileInputs.cache
+/Users/nida/Projects/CSharpCourse/DegerVeReferansTipler/obj/Debug/net7.0/DegerVeReferansTipler.dll
+/Users/nida/Projects/CSharpCourse/DegerVeReferansTipler/obj/Debug/net7.0/refint/DegerVeReferansTipler.dll
+/Users/nida/Projects/CSharpCourse/DegerVeReferansTipler/obj/Debug/net7.0/DegerVeReferansTipler.pdb
+/Users/nida/Projects/CSharpCourse/DegerVeReferansTipler/obj/Debug/net7.0/DegerVeReferansTipler.genruntimeconfig.cache
+/Users/nida/Projects/CSharpCourse/DegerVeReferansTipler/obj/Debug/net7.0/ref/DegerVeReferansTipler.dll

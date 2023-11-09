@@ -1,6 +1,7 @@
 ﻿<Properties StartupConfiguration="{5BD817B9-AD2D-4083-8227-D63F30EF4CC9}|Default">
   <MonoDevelop.Ide.ItemProperties.Loops PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.DegerVeReferansTipler FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.Classes PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.RecapDemo PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.TypesAndVariables PreferredExecutionTarget="MonoDevelop.Default" />
@@ -41,7 +42,7 @@
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.Inheritance PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Conditionals PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.Math FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Math PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.Interfaces PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Strings PreferredExecutionTarget="MonoDevelop.Default" />
