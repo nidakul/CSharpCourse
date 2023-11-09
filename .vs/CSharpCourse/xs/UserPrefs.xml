@@ -1,7 +1,8 @@
-﻿<Properties StartupConfiguration="{5BD817B9-AD2D-4083-8227-D63F30EF4CC9}|Default">
+﻿<Properties StartupConfiguration="{D71B35A9-FB45-4382-90BE-0A1566BD4812}|Default">
+  <MonoDevelop.Ide.ItemProperties.OOP1 FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.Loops PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.DegerVeReferansTipler FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.DegerVeReferansTipler PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Classes PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.RecapDemo PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.TypesAndVariables PreferredExecutionTarget="MonoDevelop.Default" />

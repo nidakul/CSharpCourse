@@ -1,0 +1,15 @@
+/Users/nida/Projects/CSharpCourse/OOP1/bin/Debug/net7.0/OOP1
+/Users/nida/Projects/CSharpCourse/OOP1/bin/Debug/net7.0/OOP1.deps.json
+/Users/nida/Projects/CSharpCourse/OOP1/bin/Debug/net7.0/OOP1.runtimeconfig.json
+/Users/nida/Projects/CSharpCourse/OOP1/bin/Debug/net7.0/OOP1.dll
+/Users/nida/Projects/CSharpCourse/OOP1/bin/Debug/net7.0/OOP1.pdb
+/Users/nida/Projects/CSharpCourse/OOP1/obj/Debug/net7.0/OOP1.csproj.AssemblyReference.cache
+/Users/nida/Projects/CSharpCourse/OOP1/obj/Debug/net7.0/OOP1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nida/Projects/CSharpCourse/OOP1/obj/Debug/net7.0/OOP1.AssemblyInfoInputs.cache
+/Users/nida/Projects/CSharpCourse/OOP1/obj/Debug/net7.0/OOP1.AssemblyInfo.cs
+/Users/nida/Projects/CSharpCourse/OOP1/obj/Debug/net7.0/OOP1.csproj.CoreCompileInputs.cache
+/Users/nida/Projects/CSharpCourse/OOP1/obj/Debug/net7.0/OOP1.dll
+/Users/nida/Projects/CSharpCourse/OOP1/obj/Debug/net7.0/refint/OOP1.dll
+/Users/nida/Projects/CSharpCourse/OOP1/obj/Debug/net7.0/OOP1.pdb
+/Users/nida/Projects/CSharpCourse/OOP1/obj/Debug/net7.0/OOP1.genruntimeconfig.cache
+/Users/nida/Projects/CSharpCourse/OOP1/obj/Debug/net7.0/ref/OOP1.dll
