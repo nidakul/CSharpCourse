@@ -1,4 +1,5 @@
-﻿<Properties StartupConfiguration="{DED0EE60-41DD-4DF1-9304-7D3FC383319F}|Default">
+﻿<Properties StartupConfiguration="{0172E553-1979-4E69-83E4-2176F4DCB943}|Default">
+  <MonoDevelop.Ide.ItemProperties.OOP3 FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.OOP1 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Loops PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
@@ -48,6 +49,6 @@
   <MonoDevelop.Ide.ItemProperties.GenericsIntro PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.Interfaces PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.OOP2 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.OOP2 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Strings PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
