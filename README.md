@@ -1,1 +1,1 @@
-İstanbul Kodluyor Projesi Ödev#1
+İstanbul Kodluyor Projesi Ödevleri
