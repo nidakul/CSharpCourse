@@ -1,4 +1,4 @@
-﻿<Properties StartupConfiguration="{500D66E8-0D1C-4B3C-9647-36846801DD83}|Default">
+﻿<Properties StartupConfiguration="{78D42EA2-A2B3-4CEA-97D2-C17ADBBFF130}|Default">
   <MonoDevelop.Ide.ItemProperties.OOP1 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Loops PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
@@ -41,10 +41,11 @@
   <MonoDevelop.Ide.ItemProperties.FindPrimeNumber PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Methods PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Collections FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Collections PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Inheritance PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Conditionals PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Math PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.GenericsIntro FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.Interfaces PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Strings PreferredExecutionTarget="MonoDevelop.Default" />

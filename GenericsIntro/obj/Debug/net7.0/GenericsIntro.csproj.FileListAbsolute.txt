@@ -1,0 +1,15 @@
+/Users/nida/Projects/CSharpCourse/GenericsIntro/bin/Debug/net7.0/GenericsIntro
+/Users/nida/Projects/CSharpCourse/GenericsIntro/bin/Debug/net7.0/GenericsIntro.deps.json
+/Users/nida/Projects/CSharpCourse/GenericsIntro/bin/Debug/net7.0/GenericsIntro.runtimeconfig.json
+/Users/nida/Projects/CSharpCourse/GenericsIntro/bin/Debug/net7.0/GenericsIntro.dll
+/Users/nida/Projects/CSharpCourse/GenericsIntro/bin/Debug/net7.0/GenericsIntro.pdb
+/Users/nida/Projects/CSharpCourse/GenericsIntro/obj/Debug/net7.0/GenericsIntro.csproj.AssemblyReference.cache
+/Users/nida/Projects/CSharpCourse/GenericsIntro/obj/Debug/net7.0/GenericsIntro.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nida/Projects/CSharpCourse/GenericsIntro/obj/Debug/net7.0/GenericsIntro.AssemblyInfoInputs.cache
+/Users/nida/Projects/CSharpCourse/GenericsIntro/obj/Debug/net7.0/GenericsIntro.AssemblyInfo.cs
+/Users/nida/Projects/CSharpCourse/GenericsIntro/obj/Debug/net7.0/GenericsIntro.csproj.CoreCompileInputs.cache
+/Users/nida/Projects/CSharpCourse/GenericsIntro/obj/Debug/net7.0/GenericsIntro.dll
+/Users/nida/Projects/CSharpCourse/GenericsIntro/obj/Debug/net7.0/refint/GenericsIntro.dll
+/Users/nida/Projects/CSharpCourse/GenericsIntro/obj/Debug/net7.0/GenericsIntro.pdb
+/Users/nida/Projects/CSharpCourse/GenericsIntro/obj/Debug/net7.0/GenericsIntro.genruntimeconfig.cache
+/Users/nida/Projects/CSharpCourse/GenericsIntro/obj/Debug/net7.0/ref/GenericsIntro.dll
